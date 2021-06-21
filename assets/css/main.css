@@ -1,11 +1,10 @@
 @import url(fontawesome-all.min.css);
 
-
 /* CSS VARIABLES */
 :root {
-  --main-blue: #1E3D59;
-  --main-yellow: #FFE500;
-  --main-magenta: #E73674;
+  --main-blue: #1e3d59;
+  --main-yellow: #ffe500;
+  --main-magenta: #e73674;
 }
 
 /*
@@ -13,8 +12,6 @@ h1 {
   color: var(--main-blue);
   font-family: var(--family-text);
 } */
-
-
 
 html,
 body,
